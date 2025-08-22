@@ -13,6 +13,13 @@ Una aplicación de escritorio desarrollada en **C# con Windows Forms** que permi
 
   
 ## Capturas de pantallas
+<p>
+  <img src="https://github.com/Melany74/PROYECTO/blob/main/imagenes/Captura%20de%20pantalla%202025-08-21%20201726.png?raw=true" width="100">
+<img src="https://github.com/Melany74/PROYECTO/blob/main/imagenes/Captura%20de%20pantalla%202025-08-21%20201814.png?raw=true" width="100">
+<img src="https://github.com/Melany74/PROYECTO/blob/main/imagenes/Captura%20de%20pantalla%202025-08-21%20201902.png?raw=true" width="100">
+<img src="https://github.com/Melany74/PROYECTO/blob/main/imagenes/Captura%20de%20pantalla%202025-08-21%20201934.png?raw=true" width="100">
+<img src="https://github.com/Melany74/PROYECTO/blob/main/imagenes/Captura%20de%20pantalla%202025-08-21%20202000.png?raw=true" width="100">
+</p>
 
 ## Sistemas Numéricos Soportados
 
