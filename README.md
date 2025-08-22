@@ -11,6 +11,9 @@ Una aplicación de escritorio desarrollada en **C# con Windows Forms** que permi
 - **Interfaz adaptativa** que muestra solo conversiones relevantes
 - **Diseño profesional** con colores distintivos
 
+  
+## Capturas de pantallas
+
 ## Sistemas Numéricos Soportados
 
 | Sistema | Base | Ejemplo de Entrada | Ejemplo de Salida |
